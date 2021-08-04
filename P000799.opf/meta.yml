@@ -1,7 +1,13 @@
-id: opecha:P000799
+id: P000799
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN25664
   title: རྒྱ་བོད་བཀའ་བསྟན་དཀར་ཆག་བསྡུར་ཞིབ།
-  volume: ''
   author: ''
+  volumes:
+    b5fb9a901efd4f67a6786da4999549e2:
+      image_group_id: I4CN11261
+      title: ''
+      volume_number: 1
+      total_pages: 408
+      base_file: v001.txt
