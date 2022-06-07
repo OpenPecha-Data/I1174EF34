@@ -1,0 +1,27 @@
+id: I1174EF34
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-01-13T10:07:50+00:00'
+last_modified: '2022-06-07T13:49:00.854784+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3CN25664
+  title: རྒྱ་བོད་བཀའ་བསྟན་དཀར་ཆག་བསྡུར་ཞིབ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    915C:
+      image_group_id: I4CN11261
+      title: ''
+      total_pages: 408
+      order: 1
+      base_file: 915C.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
